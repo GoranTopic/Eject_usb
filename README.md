@@ -16,11 +16,20 @@ If there is only one device mounted it unmouts it without need of an argument, o
 
 If there are multiple mdevices mounted, eject_usb will ask you which one to eject.
 
+### Versions
+
+I wrote two versions of the program, on ins C plus plus and an other in Shell. 
+
+
 ## Use
-
-
+### CPP
+The cpp version can be run with the executable "USBunmount" such as: `./USBunmount`
+### Bash 
+the Bash version can be run wit `./eject_usb.sh`
+ 
 ## Compile
-To compile main.cpp with the gcc.
+To compile the program, you can run:
+`g++ main.cpp -o USBunmount  with the gcc.
 run 
 
 
