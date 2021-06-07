@@ -46,12 +46,12 @@ or
 
 - [X] make Bash version
 
-- [] make compatible on other linux distros
+- [ ] make compatible on other linux distros
 
-- [] Needs an intaller bash script to intall the autocomplete file for eject_usb 
+- [ ] Needs an intaller bash script to intall the autocomplete file for eject_usb 
 
-- [] Change the name to eject_usb.
+- [ ] Change the name to eject_usb.
 
-- [] Test to see if it works in all devices .
+- [ ] Test to see if it works in all devices .
 
-- [] Find the way that in which file manajers, such as Nautilus and Caje eject usb drive and impemet it. 
+- [ ] Find the way that in which file manajers, such as Nautilus and Caje eject usb drive and impemet it. 
