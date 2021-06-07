@@ -29,18 +29,29 @@ the Bash version can be run wit `./eject_usb.sh`
  
 ## Compile
 To compile the program, you can run:
-`g++ main.cpp -o USBunmount  with the gcc.
-run 
+`g++ main.cpp -o USBunmount`  with the gcc.
+
+## Install
+To install in a linux eviroment simply move the executable to your bin dir.
+Such as:
+
+`cp USBunmount ~/bin/`
+
+or 
+
+`cp eject_usb.sh ~/bin/` 
 
 
 ## TODO
 
-make compatible on other linux distros
+- [X] make Bash version
 
-Needs an intaller bash script to intall the autocomplete file for eject_usb 
+- [] make compatible on other linux distros
 
-Change the name to eject_usb.
+- [] Needs an intaller bash script to intall the autocomplete file for eject_usb 
 
-Test to see if it works in all devices .
+- [] Change the name to eject_usb.
 
-Find the way that in which file manajers, such as Nautilus and Caje eject usb drive and impemet it. 
+- [] Test to see if it works in all devices .
+
+- [] Find the way that in which file manajers, such as Nautilus and Caje eject usb drive and impemet it. 
